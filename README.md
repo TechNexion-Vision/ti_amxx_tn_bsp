@@ -12,10 +12,17 @@ TechNexion maintains Linux support in Yocto for all of our products.
 ## Development Guide
 https://developer.technexion.com/docs/yocto-project-development-guide
 
-## Release Notes
-Includes links to pre-built images.<br/>
-https://developer.technexion.com/docs/yocto-release-notes
-
 ## Manifest Source Code
-Provides step-by-step instructions for building an image using TechNexion's Yocto BSP, which supports i.MX-series processors.<br/>
-https://github.com/TechNexion/tn-imx-yocto-manifest
+Provides Yocto TN meta layer source code for building an image using TechNexion's Yocto BSP, which supports AM6X/TDA4 series processors.<br/>
+[https://github.com/TechNexion/tn-imx-yocto-manifest](https://github.com/TechNexion/meta-tn-ti-bsp)
+
+## Linux kernel Source Code
+Provides linux kernel source code supports AM6X/TDA4 series processors.<br/>
+[https://github.com/TechNexion/tn-imx-yocto-manifest](https://github.com/TechNexion/linux-tn-ti)
+
+## Want for more guide ? 
+## TechNexion Camera Driver User Guide
+
+If you want to get more information about TechNexion cameras, you can go to the bellow link.
+
+[Technexion Camera Drivers for TI](https://github.com/TechNexion-Vision/ti_evk_camera)
