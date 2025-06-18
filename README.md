@@ -10,7 +10,7 @@
 TechNexion maintains Linux support in Yocto for all of our products.
 
 ## Development Guide
-https://developer.technexion.com/docs/yocto-project-development-guide
+[https://developer.technexion.com/docs/yocto-project-development-guide](https://tn-docusaurus.vercel.app/docs/embedded-software/linux/yocto)
 
 ## Manifest Source Code
 Provides Yocto TN meta layer source code for building an image using TechNexion's Yocto BSP, which supports AM6X/TDA4 series processors.<br/>
