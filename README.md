@@ -25,4 +25,6 @@ Provides linux kernel source code supports AM6X/TDA4 series processors.<br/>
 
 If you want to get more information about TechNexion cameras, you can go to the bellow link.
 
+[TEVS Camera Usage Guide for Texas Instruments EVK](https://developer.technexion.com/docs/embedded-vision/tevs/usage-guides/ti/)
+
 [Technexion Camera Drivers for TI](https://github.com/TechNexion-Vision/ti_evk_camera)
